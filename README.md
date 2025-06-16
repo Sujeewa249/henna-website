@@ -1,2 +1,2 @@
-# henna-website
-My henna booking site
+# My site
+My web site
